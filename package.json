@@ -1,0 +1,28 @@
+{
+  "name": "pkginfo",
+  "version": "0.0.1",
+  "description": "Output your dependencies info",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^4.0.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soyn/pkgInfo.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "alnord.wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Soyn/pkgInfo/issues"
+  },
+  "homepage": "https://github.com/Soyn/pkgInfo#readme"
+}
